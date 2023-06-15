@@ -3,6 +3,6 @@
 
 1 Экран 
 
-На первом экране отображается список фильмов с постерами и их рейтингом
+__На первом экране отображается список фильмов с постерами и их рейтингом__
 
 ![Screenshot](https://github.com/Sominisadssadd/MooviesApp/blob/master/images_for_readme/5_image.jpg)

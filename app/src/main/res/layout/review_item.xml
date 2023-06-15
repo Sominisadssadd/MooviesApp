@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardContainer"
+    android:layout_width="match_parent"
+    android:minHeight="50dp"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    app:cardCornerRadius="10dp"
+    app:cardUseCompatPadding="true"
+    app:contentPadding="10dp"
+    tools:cardBackgroundColor="@color/teal_200">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textViewNameOfReviewer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:textSize="20sp"
+            tools:text="Сергей Миронов" />
+
+        <TextView
+            android:id="@+id/textViewReviewText"
+            android:layout_width="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textViewNameOfReviewer"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            tools:text="С момента выхода последнего совместного фильма Гая Ричи и Джейсона Стэйтема ('Револьвер') прошло шестнадцать лет. Я, как и многие соскучился за их дуэтом. И вот, 2021 дарит нам 'Гнев человеческий', в котором мы наконец-то видим воссоединение этой парочки. Скажу заранее, что воссоединение удачное, типичное для Стэйтема (в хорошем смысле), но не типичное для Ричи (тоже в хорошем смысле). \r\n\r\nФильм начинается с ограбления инкассаторов, в ходе которого гибнут, как раз-таки, два инкассатора и один свидетель. После этого мы видим уже непосредственно героя Стэйтема, которого зовут Эйч (точнее, это его позывной), он хочет устроиться инкассатором в компанию 'Fortico' (именно на машину я действительно интригующей и держащей в напряжении. Хоть к середине фильма развязка и становится очевидной, однако, благодаря режиссуре Ричи, от ленты всё равно трудно оторваться. \r\n\r\nТеперь, думаю, стоит немного поговорить про один из самых главных, если не самый главный, плюс этого фильма - Джейсона Стэйтема, конечно, про него. Я уже упомянул, что для него такая роль типичная, но благодаря своей харизме и брутальности он филигранно играет своего персонажа, даря нам абсолютно не яркий"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</androidx.cardview.widget.CardView>

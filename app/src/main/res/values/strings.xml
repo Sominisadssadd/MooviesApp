@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MooviesApp</string>
+    <string name="textView_review_text">Отзывы</string>
+    <string name="favorite_menu_title">Избранное</string>
+</resources>

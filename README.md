@@ -20,6 +20,7 @@ __Детальная информация о выбранном фильме__
 
 # 3 Экран
 __В самом низу окна находятся отзывы пользователей об этом фильме__
+
 ![Screenshot](https://github.com/Sominisadssadd/MooviesApp/blob/master/images_for_readme/4_image.jpg)
 
 # 4 Экран 

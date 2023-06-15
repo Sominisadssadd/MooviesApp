@@ -1,8 +1,11 @@
 # MooviesApp
 Это учебное приложение. Дизайна как такового нет. Бить не надо)
 
-Здесь мы работаем с открытым api кинопоиска используя следующие библиотеки:
+Здесь мы работаем с открытым api кинопоиска и используем следующие библиотеки:
 * Retrofit
+* RxJava
+* Room
+* Glide
 
 # 1 Экран 
 
@@ -20,4 +23,5 @@ __В самом низу окна находятся отзывы пользов
 ![Screenshot](https://github.com/Sominisadssadd/MooviesApp/blob/master/images_for_readme/4_image.jpg)
 
 # 4 Экран 
-__Переход в избранное__
+__Переход в избранное. После того как добавили фильм в избранное, то в верхнем углу экрана, нажав на меню, можем перейти на экран с избранным__
+![Screenshot](https://github.com/Sominisadssadd/MooviesApp/blob/master/images_for_readme/3_image.jpg)

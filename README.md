@@ -5,4 +5,4 @@
 
 На первом экране отображается список фильмов с постерами и их рейтингом
 
-![Screenshot](https://github.com/Sominisadssadd/MooviesApp/blob/master/images_for_readme/2_image.jpg)
+![Screenshot](https://github.com/Sominisadssadd/MooviesApp/blob/master/images_for_readme/5_image.jpg)
